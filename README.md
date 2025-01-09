@@ -13,7 +13,9 @@ I'm Alexander Blad, a student at Brigham Young University - Idaho currently stud
 ## Technologies and Tools
 
 -Proficient in: Python (Pandas, Numpy, Matplotlib, Scikit-learn), C#, C++
+
 -Learning: C, Game Development, Data Structures, Algorithm Design
+
 -Skills: Data Analysis, Data Visualization, Probabilistic Modeling
 
 ## Let's Connect!
